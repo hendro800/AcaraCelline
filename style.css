@@ -456,10 +456,10 @@ footer {
     }
 
     .timeline li .timeline-panel::before {
-        top: 50px;
+        top: 40px;
     }
     .timeline li .timeline-panel::after {
-        top: 51px;
+        top: 41px;
     }
 }
 /* mobile phone */
@@ -474,7 +474,7 @@ footer {
     }
 
     .timeline li .timeline-panel {
-        width: 60%;
+        width: 57%;
         transform: translateX(-20px);
     }
 
