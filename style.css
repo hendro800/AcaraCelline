@@ -414,6 +414,8 @@ footer {
         left: 15px;
         margin-left: 45px;
         top: 16px;
+        width: 120px;
+        height: 120px;
     }
 
     .timeline li .timeline-panel {
@@ -426,6 +428,7 @@ footer {
         border-right-width: 15px;
         left: -15px;
         right: auto;
+        top: 40px;
     }
 
     .timeline li .timeline-panel::after {
@@ -433,7 +436,10 @@ footer {
         border-right-width: 14px;
         left: -13px;
         right: auto;
+        top: 41px;
     }
+
+    
 }
 /* tablet */
 @media (max-width: 768px) {
@@ -451,8 +457,8 @@ footer {
     }
 
     .timeline li .timeline-image {
-        width: 140px;
-        height: 140px;
+        width: 95px;
+        height: 95px;
     }
 
     .timeline li .timeline-panel::before {
